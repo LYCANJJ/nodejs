@@ -1,0 +1,20 @@
+{
+  "name": "Refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.1",
+    "moment-timezone": "^0.5.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "r": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
